@@ -1,24 +1,43 @@
-# advengineering
+## тестовое задание для компании Advance Engineering
 
-## Project setup
+### Используемые технологии:
+
+```
+vue3, vuex, vue-router, axios, date-fns, scss, dotenv, transition-group, подключены глобально свои компоненты
+```
+
+## Установить все зависимости
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Запустить локальный сервер nodejs
+
+```
+npm run backend
+```
+
+### Запустить приложение
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Компиляция
+
 ```
 npm run build
 ```
 
 ### Lints and fixes files
+
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### telegram:
+
+```
+https://t.me/Vlad_Okenchits
+```
