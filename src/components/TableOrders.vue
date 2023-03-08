@@ -2,6 +2,7 @@
   <section class="orders">
     <div class="container orders__container">
       <AdvSpinner v-if="orders === null" />
+      <h2 v-else-if="orders?.length === 0">нет заказов</h2>
       <table v-else class="table">
         <thead>
           <tr>
